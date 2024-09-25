@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heading1{
+    text-align: center;
+    background-color: aqua;
+    border: 2px solid green;
+    color: brown;
+    margin-top: 20px;
+}
+
+.main-element{
+    background-color: yellow;
+    padding: 10px;
+}

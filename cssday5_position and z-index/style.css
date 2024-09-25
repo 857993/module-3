@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heading{
+    background-color: aqua;
+    text-align: center;
+    font-size: 50px;
+    border: 2px dashed  blue;
+    margin-bottom: 20px;
+}
+.html{
+    height: 300vh;
+}
+
+.parent-element{
+    position: relative;
+    height: 1000px;
+    padding: 10px;
+    background-color: #81adc8;
+}
